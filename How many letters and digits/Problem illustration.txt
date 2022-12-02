@@ -1,0 +1,6 @@
+Write a Python function that accepts a string and calculates the number of digits and 
+letters.
+Sample Data: MyPython 3.117
+Expected Output:
+Letters 8
+Digits 4
