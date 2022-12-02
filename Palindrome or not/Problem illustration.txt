@@ -1,0 +1,2 @@
+Write a Python program that will take a string and check if it is palindrome or not.
+A word is palindrome when the reverse of a word gives the same word.
