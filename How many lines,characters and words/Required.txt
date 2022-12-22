@@ -1,0 +1,1 @@
+Write a Python program that opens the file and counts the number of words, lines and characters in it.

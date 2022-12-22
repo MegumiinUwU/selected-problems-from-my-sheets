@@ -1,0 +1,3 @@
+The josepho.txt is a default file to try with it the program
+You have to put the text file in the same folder with the program 
+You don't have to write .txt  

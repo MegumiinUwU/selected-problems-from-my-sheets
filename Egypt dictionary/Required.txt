@@ -1,0 +1,3 @@
+Create a dictionary with 10 or more Egyptian cities. City name is the key, while the value to store 
+population. Or it can be the distance from Cairo. Then the program that allows the user to choose from 
+three functions; Listing all cities and their information, query the dictionary for a city or add a new city.
